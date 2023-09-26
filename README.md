@@ -1,2 +1,2 @@
 # urcrypt-sys
-Bindings to urcrypt for cryptographic functions used in Urbit jets.
+Rust bindings to urcrypt for cryptographic functions used in Urbit jets.

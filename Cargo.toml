@@ -1,0 +1,17 @@
+[package]
+name = "urcrypt-sys"
+description = "Rust bindings for the urcrypt library."
+repository = "https://github.com/urbit/urcrypt-sys"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+readme = "README.md"
+keywords = ["urbit"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.68.1"
+pkg-config = "0.3.27"
