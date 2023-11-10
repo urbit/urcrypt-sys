@@ -2,7 +2,7 @@
 name = "urcrypt-sys"
 description = "Rust bindings for the urcrypt library."
 repository = "https://github.com/urbit/urcrypt-sys"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license-file = "LICENSE"
 readme = "README.md"
